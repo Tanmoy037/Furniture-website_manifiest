@@ -18,7 +18,7 @@ spec:
       - name: dockerhub-secret
       containers:
       - name: furweb-container
-        image: tanmoy037/furweb:68ac719f625574298d25ff4f0716bdaa076a1cd0
+        image: sha256:4e164fd72618057d66691df83f0a19533a73508be0f5b838741b196004ad65f2
         ports:
         - containerPort: 3000
         - containerPort: 5000
