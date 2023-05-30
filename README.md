@@ -1,2 +1,2 @@
-# Furniture-website_manifiest
-This repository consist manifiest files of  Furniture-Website Project - https://github.com/Tanmoy037/Furniture-website.git
+# Ecommerce-Website Project Manifiest
+This repository consist manifiest files of  Ecommerce-Website Project - https://github.com/Tanmoy037/Furniture-website.git
